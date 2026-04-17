@@ -90,11 +90,5 @@ Auto-adaptive UI based on a user’s profile, offering inclusive course delivery
 
 
 
----
-
-## 👥 Team
-- **Shaurya Tyagi**
-- **Kavya kapoor**
-- **Lakshya Gupta**
 
 
