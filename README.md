@@ -85,7 +85,7 @@ Auto-adaptive UI based on a user’s profile, offering inclusive course delivery
 - Full generative color-enhancement
 - Real-time accessibility audit engine
 - Cloud-based syncing across devices
-- More granular accessibility triggers
+- More granular accessibility 
 
 
 
